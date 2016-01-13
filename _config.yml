@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2708794
+  brandStrength: 0.8199831
+  lightness: 0.5414327
+  brandColors:
+    - '#201E1F'
+    - '#FFFFFF'
+    - '#4B4C5C'
+    - '#F2D9BB'
+    - '#CFBE99'
+  rhythmicContrast: 0.6639297
+typography_spectrum: 0.8924731
+name: Clare
